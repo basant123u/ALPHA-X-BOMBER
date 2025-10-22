@@ -105,7 +105,7 @@ if __name__ == "__main__":
     """
 
 #2 vonage part1
-import vonage
+#import vonage
 #from vonage import Sms, Client
 import time
 """client = vonage.Client(key="f9515fd5", secret="UmeYpNuYellszry3")
@@ -302,5 +302,6 @@ if __name__ == "__main__":
 #
 #
  
+
 
  
